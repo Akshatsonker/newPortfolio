@@ -68,7 +68,7 @@ const Hero: React.FC = () => {
               View My Work
             </button>
            <a 
-  href="https://drive.google.com/file/d/17qvfxSGFJVwGDGFCv8QIgt8cTGvqBaZG/view?usp=drive_link" 
+  href="https://drive.google.com/file/d/1004rio49smPr5EGMPijSZW9AALUhfZ0-/view?usp=sharing" 
   target="_blank"
   rel="noopener noreferrer"
   className="inline-block" // This maintains button styling
